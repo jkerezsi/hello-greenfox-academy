@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import SimpleACorn from './app';
+
 
 ReactDOM.render(
-  <h1>Hello, Green Fox Academy!</h1>,
+  <SimpleACorn />,
   document.getElementById('root'),
 );
+
 
